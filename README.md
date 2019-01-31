@@ -4,6 +4,6 @@ Edit the `ALProxy` constructor line in `walk.py` to Pepper's IP address. To get 
 
 ### TODO
 
-1. Transfer a gait expressing emotions in the upper body onto Pepper (see: "Real Time Whole Body Motion Mapping" and "Working with MoCap file formats" in the papers/ directory).
+1. Transfer a gait expressing emotions in the upper body onto Pepper (see: "Real Time Whole Body Motion Mapping" and "Working with MoCap file formats" in the papers/ directory. Also [this](https://research.cs.wisc.edu/graphics/Courses/cs-838-1999/Jeff/ASF-AMC.html)).
 2. Package that as a Choregraphe movement and loop it (or implement that with the Nao Python API - a lot more complicated).
 3. Start both animations (upper-body movement + locomotion) simultaneously.
